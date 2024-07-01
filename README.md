@@ -1,2 +1,2 @@
 # rsschool-cv
-https://app.rs.school
+https://nekopunch2482.github.io/rsschool-cv/cv
