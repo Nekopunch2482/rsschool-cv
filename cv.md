@@ -36,5 +36,5 @@ Unfortunately I don't have any experience on a 'real' software projects. (Junior
 
 ---
 #### Language:
-  Russian: Native
-  English: B1
+  + Russian: Native
+  + English: B1
